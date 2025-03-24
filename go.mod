@@ -3,7 +3,7 @@ module github.com/gonvenience/idem
 go 1.23.0
 
 require (
-	github.com/gonvenience/ytbx v1.4.6
+	github.com/gonvenience/ytbx v1.4.7
 	github.com/onsi/ginkgo/v2 v2.23.3
 	github.com/onsi/gomega v1.36.3
 	gopkg.in/yaml.v3 v3.0.1
