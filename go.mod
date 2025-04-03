@@ -7,7 +7,7 @@ toolchain go1.24.1
 require (
 	github.com/gonvenience/ytbx v1.4.7
 	github.com/onsi/ginkgo/v2 v2.23.3
-	github.com/onsi/gomega v1.36.3
+	github.com/onsi/gomega v1.37.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
