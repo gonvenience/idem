@@ -2,8 +2,6 @@ module github.com/gonvenience/idem
 
 go 1.23.0
 
-toolchain go1.24.1
-
 require (
 	github.com/gonvenience/ytbx v1.4.7
 	github.com/onsi/ginkgo/v2 v2.23.4
