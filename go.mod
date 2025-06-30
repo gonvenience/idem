@@ -13,7 +13,7 @@ require (
 	github.com/BurntSushi/toml v1.5.0 // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
-	github.com/gonvenience/bunt v1.4.1 // indirect
+	github.com/gonvenience/bunt v1.4.2 // indirect
 	github.com/gonvenience/term v1.0.4 // indirect
 	github.com/gonvenience/text v1.0.9 // indirect
 	github.com/google/go-cmp v0.7.0 // indirect
