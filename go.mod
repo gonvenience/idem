@@ -4,13 +4,14 @@ go 1.23.0
 
 require (
 	github.com/gonvenience/ytbx v1.4.7
-	github.com/onsi/ginkgo/v2 v2.23.4
+	github.com/onsi/ginkgo/v2 v2.24.0
 	github.com/onsi/gomega v1.38.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
 require (
 	github.com/BurntSushi/toml v1.5.0 // indirect
+	github.com/Masterminds/semver/v3 v3.3.1 // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
 	github.com/gonvenience/bunt v1.4.2 // indirect
