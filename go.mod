@@ -4,7 +4,7 @@ go 1.23.0
 
 require (
 	github.com/gonvenience/ytbx v1.4.7
-	github.com/onsi/ginkgo/v2 v2.25.0
+	github.com/onsi/ginkgo/v2 v2.25.1
 	github.com/onsi/gomega v1.38.0
 	gopkg.in/yaml.v3 v3.0.1
 )
