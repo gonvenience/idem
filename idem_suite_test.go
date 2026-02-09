@@ -21,7 +21,7 @@ import (
 	. "github.com/onsi/gomega"
 
 	"github.com/gonvenience/ytbx"
-	yamlv3 "gopkg.in/yaml.v3"
+	yamlv3 "go.yaml.in/yaml/v3"
 )
 
 func TestIdem(t *testing.T) {
